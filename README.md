@@ -1,0 +1,1 @@
+# chartjs in django app
